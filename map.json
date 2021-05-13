@@ -163,7 +163,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":19,
+                 "height":24.6666666666666,
                  "id":6,
                  "name":"",
                  "rotation":0,
@@ -174,12 +174,12 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":66.9583333333333,
+                 "width":70.9583333333333,
                  "x":211.6875,
                  "y":325.833333333333
                 }, 
                 {
-                 "height":19,
+                 "height":26,
                  "id":7,
                  "name":"",
                  "rotation":0,
@@ -190,12 +190,12 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":73.9583,
+                 "width":80.9583,
                  "x":483.02085,
                  "y":325.166666666667
                 }, 
                 {
-                 "height":19,
+                 "height":23.3333333333334,
                  "id":8,
                  "name":"",
                  "rotation":0,
@@ -206,12 +206,12 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":69.9583,
+                 "width":73.6249666666667,
                  "x":209.02085,
                  "y":997.833333333333
                 }, 
                 {
-                 "height":19,
+                 "height":23,
                  "id":9,
                  "name":"",
                  "rotation":0,
@@ -222,12 +222,12 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":70.9583,
+                 "width":74.2916333333334,
                  "x":467.02085,
                  "y":997.833333333333
                 }, 
                 {
-                 "height":19,
+                 "height":24.3333333333334,
                  "id":10,
                  "name":"",
                  "rotation":0,
@@ -238,7 +238,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":71.9583,
+                 "width":76.2916333333333,
                  "x":721.687516666667,
                  "y":997.833333333333
                 }],
@@ -1423,6 +1423,87 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":36,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":37,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":38,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":39,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":40,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":41,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":90,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":91,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":92,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":510,
                  "properties":[
                         {
@@ -1699,6 +1780,24 @@
                 }, 
                 {
                  "id":544,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":547,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":601,
                  "properties":[
                         {
                          "name":"collides",
